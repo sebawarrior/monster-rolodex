@@ -1,0 +1,40 @@
+
+.header-card{
+    display: block;
+    background-color: red;
+}
+
+.media {
+    height: 140,
+}
+
+.button-card-container{
+    display: flex;
+}
+
+Button.MuiButton-contained {
+    background-color: red;
+    width: 40%;
+}
+
+#buttonplace{
+    text-align: center;
+}
+
+#card:hover{
+    transform: scale(1.05); 
+}
+
+#cardbutton1{
+    background-color: blue;
+    position: relative;
+    left: 8%;
+    min-width: 30px;
+    
+}
+
+#cardbutton2{
+    background-color: green;
+    position: relative;
+    left: 10%
+}

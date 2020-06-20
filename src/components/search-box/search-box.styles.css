@@ -1,0 +1,12 @@
+#outlined-search{
+    color: black;
+    text-decoration-color: white;
+    -moz-text-decoration-color: white;
+    border-color: white;
+    background-color: white;
+    
+}
+
+.MuiOutlinedInput-notchedOutline{
+    border-color: white;
+}
